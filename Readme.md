@@ -2,9 +2,7 @@
 
 ## Test the model
 
-www.amazonias.com.br
-
-Test it now: www.amazonias.com.br 
+www.amazonias.com.br 
 
 ## Project Overview
 

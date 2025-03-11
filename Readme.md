@@ -2,7 +2,9 @@
 
 ## Test the model
 
-https://yanomami.bernardoserrano.com
+www.amazonias.com.br
+
+Test it now: www.amazonias.com.br 
 
 ## Project Overview
 
